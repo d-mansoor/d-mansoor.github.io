@@ -8,3 +8,6 @@ BSc Computing Science, Minor in Economics, University of Alberta
 Product Management: XBOX Product Management Fundamentals · EA Product Management Simulation
 Unity · C · Python · SQL · Excel · flow charts & level sketching
 LinkedIn · dmansoor@ualberta.ca
+
+
+**[View the "A Way Home" Project Folder](./A%20Way%20Home/)**
